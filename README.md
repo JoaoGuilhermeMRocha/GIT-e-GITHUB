@@ -1,2 +1,3 @@
 # GIT e GITHUB
-Repositório de GIT e GITHUB. Relacionado ao curso do Gustavo Guanabara.
+Repositório referente ao curso de GIT e GITUB, do processor Gustavo Guanabara.
+Esse repositório tem como função, catalogar tudo oque foi aprendido no curso!
